@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 /* Your stylesheets can vary. In this case, the jumbotron class' background color was chagned */
 .jumbotron {
     background: rgb(0, 189, 47);
   }
+=======
+/* Your stylesheets can vary. In this case, the jumbotron class' background color was chagned */
+.jumbotron {
+    background: rgb(0, 189, 47);
+  }
+>>>>>>> a30023c10ff18b0cffbd52318fe62393979d3806
