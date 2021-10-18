@@ -1,0 +1,34 @@
+After completing the assignment, be sure to push to Github. You do not have to worry about pushing to Heroku this lesson.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub):
+   https://github.com/JoeWatt40/CSE_341
+
+3. Briefly list and describe the elements of the application that are functioning. 
+   Users are entered and showing in the console with localhost:3000
+   In localhost:3000/users each user entered shows up in an order list
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+   It seems like everything is working correctly.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+   The "coolest" thing that I learned in this assignment is how to connect the files
+   and make the files go from one IF statement to an other and perform what you 
+   wanted it to.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+   The biggest thing I needed help on(that I got from the TA) was the startup in the package.json
+   file. It wasn't clear to me exactly what instruction #3 ment. The TA also gave me the idea on how
+   to get the data from the form array into an array I could use in /users.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+   I think #5 describes my assignment.
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+   I believe my assignment meets number 5 because it uses all three routes asked and
+   displays the users in a list.
