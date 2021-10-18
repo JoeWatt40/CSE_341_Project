@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <% include ../includes/header.ejs %>
+</head>
+
+<body>
+  <% include ../includes/nav.ejs %>
+    <div class="jumbotron text-center">
+      <div class="container">
+        <h1>
+          <%= title %>
+        </h1>        
+      </div>
+    </div>
+    <div class="container">
+
+      <form action="\addUser" method=POST>
+        <label for="addUser">Add User</label><br>
+        <input type="text" name="addUser">
+        <button type="submit">Submit</button>
+      </form>
+
+      <form action="\removeUser" method=POST>
+        <label for="removeUser">Remove User</label><br>
+        <input type="text" name="removeUser">
+        <button type="submit">Submit</button>
+      </form>
+
+      <h3>Display User List</h3>
+      <!-- for loop for display array -->
+      
+    </div>
+
+</body>
+</html>
