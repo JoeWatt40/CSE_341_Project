@@ -1,7 +1,4 @@
-// Product modely
 const fs = require('fs');
-
-// Using node-fetch
 const fetch = require('node-fetch');
 const productsUrl = 'https://byui-cse.github.io/cse341-course/lesson03/items.json';
 
